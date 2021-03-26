@@ -1,2 +1,3 @@
 # ID-Card
 # ✓ Greece
+# ✓ Palestine
